@@ -99,10 +99,3 @@ The neural network model includes:
 - Experiment with other ML algorithms (e.g., Random Forest, XGBoost).
 - Optimize model hyperparameters.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgements
-- TensorFlow and Keras documentation.
-- Open-source libraries like Pandas, NumPy, and Matplotlib.
-- The industrial dataset providers.
